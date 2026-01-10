@@ -1,0 +1,35 @@
+대주제	소주제
+Intelligent Transformation: Seamless	Seamless (AI+산업), Consumer goods
+"초보자를 전문가로"	중장비 AI 탑재
+	가전
+	Wearable Glass
+	Gaming Gear
+	
+	
+	
+	
+Partnering with Physical AI 	휴머노이드
+"전문가와 함께 일하는/AI가 팀으로 일하는"	휠드 휴머노이드
+	4족보행
+	기타 B2B (4륜형 등)
+	기타 B2C 
+	
+SDV	자율주행 Lv4
+	> 로보택시
+	> 로보카
+	SDV
+	
+	
+	
+	
+Digital Healthcare	수면
+	장애요소 보완
+	Exo-skeleton
+	멘탈 모니터링/케어
+	시니어 케어
+	
+Energy and Infra	전기, Ess, 태양광
+	
+	
+	
+Fullstack AI Infra	Foundary 코너 신설
