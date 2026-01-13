@@ -29,7 +29,14 @@ Digital Healthcare	수면
 	시니어 케어
 	
 Energy and Infra	전기, Ess, 태양광
-	
+	고집적 데이터센터
+  스마트 그리드
+  탄소중립에너지
+  모빌리티 에너지 통합 인프라
 	
 	
 Fullstack AI Infra	Foundary 코너 신설
+  풀스택 AI 인프라 솔루션
+  피지컬 AI 칩
+  양자 컴퓨팅 및 블록체인
+  온디바이스 AI 엣지
